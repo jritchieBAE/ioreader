@@ -1,2 +1,1 @@
 goodbye hello
-hello 
